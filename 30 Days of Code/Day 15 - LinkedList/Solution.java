@@ -1,6 +1,5 @@
 //	Author: Tushar Jayanti
 //	github: github/tusharjayanti
-//	HackerRank: hackerrank/tusharjayanti
 
 import java.util.Scanner;
 
