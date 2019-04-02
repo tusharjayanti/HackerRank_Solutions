@@ -17,7 +17,7 @@ class Solution{
 
 		System.out.println("\n"+maxHourSum(input));
 	}
-
+	io.close();
 	private static int maxHourSum(int[][] arr)
 	{
 		int max = Integer.MIN_VALUE;
