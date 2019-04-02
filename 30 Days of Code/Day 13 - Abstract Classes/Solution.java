@@ -35,6 +35,7 @@ class Solution
 		String title = io.nextLine();
 		String author = io.nextLine();
 		int price = io.nextInt();
+		io.close();
 		Book novel = new Mybook(title,author,price);
 		novel.display();
 		
