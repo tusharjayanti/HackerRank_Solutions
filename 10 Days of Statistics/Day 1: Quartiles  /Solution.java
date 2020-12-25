@@ -15,12 +15,12 @@ class Solution {
             arr[i] = io.nextInt();
         }
         io.close();
-        
+
         return  arr;
     }
 
     public static int getMedian(int[] arr, int start, int end) {
-            
+
             if((end-start)%2==0) {       // odd number of elements in a zero indexed array
                 return arr[(end+start)/2];
             }
@@ -32,13 +32,14 @@ class Solution {
     }
 
     public static void main(String[] args) {
-       
+
         int[] input = getConsoleInput();
         Arrays.sort(input);
 
         System.out.println(getMedian(input, 0,  (input.length-1)/2 - 1));
         System.out.println(getMedian(input, 0, input.length-1));
         System.out.println(getMedian(input, ((input.length-1)/2+1),  input.length-1));
-        
+
     }
 }
+
