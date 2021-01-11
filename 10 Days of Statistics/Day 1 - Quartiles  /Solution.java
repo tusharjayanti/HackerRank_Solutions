@@ -36,9 +36,9 @@ class Solution {
         int[] input = getConsoleInput();
         Arrays.sort(input);
 
-        System.out.println(getMedian(input, 0,  (input.length-1)/2 - 1));
+        System.out.println(getMedian(input, 0,  (input.length)/2 - 1));
         System.out.println(getMedian(input, 0, input.length-1));
-        System.out.println(getMedian(input, ((input.length-1)/2+1),  input.length-1));
+        System.out.println(getMedian(input, ((input.length)/2+1),  input.length-1));
 
     }
 }
