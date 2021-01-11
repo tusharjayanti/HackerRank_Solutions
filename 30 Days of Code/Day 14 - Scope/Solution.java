@@ -1,3 +1,6 @@
+//	Author: Tushar Jayanti
+//	github: github/tusharjayanti
+
 import java.util.Scanner;
 
 public class Solution

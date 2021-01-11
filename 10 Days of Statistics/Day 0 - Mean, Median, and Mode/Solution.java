@@ -58,7 +58,7 @@ class Solution
 					max=count;
 					mode = itr;
 				}
-				
+
 			}
 		}
 		return mode;
@@ -72,12 +72,12 @@ class Solution
 		{
 			arr[i] = io.nextInt();
 		}
-		
+
 		System.out.println(FindMean(arr));
 		System.out.println(FindMedian(arr));
 		PrintArray(arr);
 		System.out.println(FindMode(arr));
-		
+
 
 	}
 }

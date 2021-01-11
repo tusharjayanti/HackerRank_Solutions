@@ -1,3 +1,6 @@
+//	Author: Tushar Jayanti
+//	github: github/tusharjayanti
+
 import java.util.Scanner;
 
 abstract class Book{
@@ -38,7 +41,7 @@ class Solution
 		io.close();
 		Book novel = new Mybook(title,author,price);
 		novel.display();
-		
+
 	}
 
 }
