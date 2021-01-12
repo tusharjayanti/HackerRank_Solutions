@@ -15,7 +15,6 @@ public class Solution {
 				
 				if(grades.get(i)>=38 && diff<3) {
 
-					 //diff = grades.get(i) + diff;
 					 grades.set(i,grades.get(i) + diff);
 
 				}

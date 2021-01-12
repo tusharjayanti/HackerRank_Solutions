@@ -55,6 +55,7 @@ Solutions are coded using Java 8
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |         Implementation         | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Solution.java)                          |
+|         Implementation         | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Solution.java)                          |
 
 
 
