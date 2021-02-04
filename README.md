@@ -54,8 +54,10 @@ Solutions are coded using Java 8
 
 |        Subdomain        |                                                              Challenge                                                              | Points |                                                                                  Solution                                                                                 |
 |:-----------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|:------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|         Implementation         | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Solution.java)                          |
-|         Implementation         | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Solution.java)                          |
+|         Implementation         | [Grading Students](https://www.hackerrank.com/challenges/grading/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Grading%20Students/Solution.java)                          |
+|         Implementation         | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Apple%20and%20Orange/Solution.java)                          |
+|         Implementation         | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)                                                         |   10   | [Solution.java](https://github.com/tusharjayanti/HackerRank_Solutions/blob/master/Algorithms/Implementation/Breaking%20the%20Records/Solution.java)                          |
+
 
 
 
